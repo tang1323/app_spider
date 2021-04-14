@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66f841d3-383f-4dff-aa54-3d466f80c9c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iYDAKssSgNpTGEPeSPw3CTm6og" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Py-Project\app-spider\douyin" />
+      <recent name="D:\Py-Project\app-spider\mitmdump_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.douyin">
+    <configuration name="douyin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/douyin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="handle_db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/handle_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="handle_proxy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dou_gui_mei_shi" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dou_gui_mei_shi/handle_proxy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="handle_share_web" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/douyin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyin/handle_share_web.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kaoyanbang_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="app-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kaoyanbang" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kaoyanbang/kaoyanbang_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.douyin" />
+        <item itemvalue="Python.handle_share_web" />
+        <item itemvalue="Python.handle_db" />
+        <item itemvalue="Python.kaoyanbang_test" />
+        <item itemvalue="Python.handle_proxy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66f841d3-383f-4dff-aa54-3d466f80c9c3" name="Default Changelist" comment="" />
+      <created>1602075486646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602075486646</updated>
+      <workItem from="1602075488167" duration="2068000" />
+      <workItem from="1602146939571" duration="9156000" />
+      <workItem from="1602162368003" duration="1205000" />
+      <workItem from="1602216973583" duration="4224000" />
+      <workItem from="1602221230708" duration="642000" />
+      <workItem from="1602221885742" duration="3751000" />
+      <workItem from="1602299055745" duration="3000" />
+      <workItem from="1602380111407" duration="8239000" />
+      <workItem from="1602986647903" duration="13000" />
+      <workItem from="1603248092653" duration="12694000" />
+      <workItem from="1603362704843" duration="4271000" />
+      <workItem from="1603420314659" duration="301000" />
+      <workItem from="1606119941949" duration="1743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="395" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1602381778513">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="563" y="395" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.31.1440.929@0.31.1440.929" timestamp="1602381778513" />
+    <state width="1438" height="440" key="DebuggerActiveHint" timestamp="1603287067326">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1438" height="440" key="DebuggerActiveHint/0.31.1440.929@0.31.1440.929" timestamp="1603287067326" />
+    <state x="605" y="304" key="FileChooserDialogImpl" timestamp="1606119975562">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="605" y="304" key="FileChooserDialogImpl/0.31.1440.929@0.31.1440.929" timestamp="1606119975562" />
+    <state width="1210" height="189" key="GridCell.Tab.0.bottom" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.0.bottom/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.0.center" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.0.center/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.0.left" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.0.left/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.0.right" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.0.right/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.1.bottom" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.1.bottom/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.1.center" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.1.center/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.1.left" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.1.left/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state width="1210" height="189" key="GridCell.Tab.1.right" timestamp="1603291478525">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state width="1210" height="189" key="GridCell.Tab.1.right/0.31.1440.929@0.31.1440.929" timestamp="1603291478525" />
+    <state x="211" y="182" key="SettingsEditor" timestamp="1606120018415">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="211" y="182" key="SettingsEditor/0.31.1440.929@0.31.1440.929" timestamp="1606120018415" />
+    <state x="253" y="305" width="1068" height="604" key="dock-window-1" timestamp="1603364313990">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="253" y="305" width="1068" height="604" key="dock-window-1/0.31.1440.929@0.31.1440.929" timestamp="1603364313990" />
+    <state x="66" y="295" width="1068" height="604" key="dock-window-2" timestamp="1603364313990">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="66" y="295" width="1068" height="604" key="dock-window-2/0.31.1440.929@0.31.1440.929" timestamp="1603364313990" />
+    <state x="663" y="281" width="672" height="678" key="search.everywhere.popup" timestamp="1603251378075">
+      <screen x="0" y="31" width="1440" height="929" />
+    </state>
+    <state x="663" y="281" width="672" height="678" key="search.everywhere.popup/0.31.1440.929@0.31.1440.929" timestamp="1603251378075" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/douyin/handle_share_web.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/douyin/handle_share_web.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/app_spider$handle_db.coverage" NAME="handle_db Coverage Results" MODIFIED="1603287921931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin" />
+    <SUITE FILE_PATH="coverage/app_spider$kaoyanbang_test.coverage" NAME="kaoyanbang_test Coverage Results" MODIFIED="1602389294969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/kaoyanbang" />
+    <SUITE FILE_PATH="coverage/app_spider$spider_dougumeishi__2_.coverage" NAME="spider_dougumeishi (2) Coverage Results" MODIFIED="1602221743549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dou_gui_mei_shi" />
+    <SUITE FILE_PATH="coverage/app_spider$douyin.coverage" NAME="douyin Coverage Results" MODIFIED="1603289275711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin" />
+    <SUITE FILE_PATH="coverage/app_spider$spider_dougumeishi.coverage" NAME="spider_dougumeishi Coverage Results" MODIFIED="1602157356222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dou_gui_mei_shi" />
+    <SUITE FILE_PATH="coverage/app_spider$handle_mongo.coverage" NAME="handle_mongo Coverage Results" MODIFIED="1602219238627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dou_gui_mei_shi" />
+    <SUITE FILE_PATH="coverage/app_spider$handle_proxy.coverage" NAME="handle_proxy Coverage Results" MODIFIED="1602223429181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dou_gui_mei_shi" />
+    <SUITE FILE_PATH="coverage/app_spider$spider_dougumeishi__1_.coverage" NAME="spider_dougumeishi (1) Coverage Results" MODIFIED="1602220494293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dou_gui_mei_shi" />
+    <SUITE FILE_PATH="coverage/app_spider$spider_dougumeishi__3_.coverage" NAME="spider_dougumeishi (3) Coverage Results" MODIFIED="1602222647991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dou_gui_mei_shi" />
+    <SUITE FILE_PATH="coverage/app_spider$handle_share_web.coverage" NAME="handle_share_web Coverage Results" MODIFIED="1603287946830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/douyin" />
+  </component>
+</project>
